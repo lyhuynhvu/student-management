@@ -1,0 +1,99 @@
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.mdf
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien_log.ldf
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmMain.resources
+D:\Bai Tap\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmTrangChu.resources
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.mdf
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien_log.ldf
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHome.resources
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\u24\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\u20\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\u20\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\u20\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.mdf
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien_log.ldf
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHome.resources
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\Admin\Downloads\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHocPhan.resources
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHomeSinhVien.resources
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKQHocTap.resources
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\Admin\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\Window\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\Window\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\Window\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.mdf
+D:\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien_log.ldf
+D:\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHocPhi.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHomeSinhVien.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKQHocTap.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.mdf
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien_log.ldf
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHocPhi.resources
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHomeSinhVien.resources
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKQHocTap.resources
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+D:\vu\Windows Programming\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojResolveAssemblyReference.cache
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmGiangVien.resources
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHocPhi.resources
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmHomeSinhVien.resources
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmKQHocTap.resources
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.frmLogin.resources
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.Cache
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.mdf
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien_log.ldf
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+C:\Users\u29\Documents\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
